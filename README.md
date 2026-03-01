@@ -1,4 +1,4 @@
-# FOLLIE NL-to-FOL and NLI dataset
+# FOLLIE dataset for NL-to-FOL and NLI tasks
 
 FOLLIE (First-Order Logic for Language Inference and Entailment) is the first dataset for French with natural language sentences and their corresponding first-order logic (FOL) formulas.
 
