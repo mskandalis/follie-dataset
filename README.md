@@ -13,7 +13,7 @@ FOLLIE dataset is also available on [huggingface.co](https://huggingface.co/data
 
 The dataset can be used for the task of translating French sentences into their corresponding logical representation in first-order logic, or for the task of natural language inference (NLI) with (neuro)symbolic AI methods. The NL-to-FOL task is a sequence-to-sequence task, whereas the NLI task is a sentence-pair classification task.
 
-If used for NLI, you should keep the rows where the FOL formulas for both all the premise(s) and the hypothesi(e)s are available, and filter out the rows where one of the two is not available in the dataset.
+If used for NLI, you should only keep the rows where the FOL formulas for both all the premise(s) and the hypothesi(e)s are available, and filter out the rows where one of the two is not available in the dataset.
 
 # Cite
 
