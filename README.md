@@ -7,7 +7,7 @@ The resulting FOLLIE dataset preserves all these elements, in addition to provid
 
 The logical formulas follow the format used in the NLTK package, thus they are fully compatible with the NLTK Logic Parser.
 
-It is also available on [huggingface.co](https://huggingface.co/datasets/maximoss/follie).
+FOLLIE dataset is also available on [huggingface.co](https://huggingface.co/datasets/maximoss/follie).
 
 # Cite
 
